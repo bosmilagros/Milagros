@@ -1,0 +1,1 @@
+export const Label = ({ htmlFor, children }) => <label htmlFor={htmlFor} className="block font-medium mb-1">{children}</label>;
